@@ -1,0 +1,1 @@
+This is a browser version of famous paranoid games. The HTML5 canvas and audio are used.
